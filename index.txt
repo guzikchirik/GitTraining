@@ -2,3 +2,6 @@ Hello GIT!
 I'd like to grate you here!
 If you want change this fail, you should add some text to the end of this article!
 Thanks
+
+-------------------------------------------------------------------------------
+There is no article!!!
